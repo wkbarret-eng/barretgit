@@ -6,3 +6,4 @@ def test_check_machine():
     b = 1
     result = check_machine(a, b)       # Act
     assert result == True              # Assert
+
